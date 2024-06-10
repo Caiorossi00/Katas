@@ -1,3 +1,13 @@
+function reverseAndDisplay() {
+  let inputString = getInputString();
+  let reversedString = reverseString(inputString);
+  displayReversedString(reversedString);
+}
+
+function getInputString() {
+  return document.getElementById("inputString").value;
+}
+
 function reverseString(str) {
   let reversedStr = "";
 
@@ -8,4 +18,6 @@ function reverseString(str) {
   return reversedStr;
 }
 
-console.log(reverseString("hello"));
+function displayReversedString(str) {
+  document.getElementById("output").innerText = str;
+}
