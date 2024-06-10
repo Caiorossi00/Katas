@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Factorial Calculator</title>
+    <style>
+      body {
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        margin: 0;
+        background-color: #f0f0f5;
+      }
+
+      .container {
+        background-color: #fff;
+        padding: 40px;
+        border-radius: 12px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      }
+
+      h1 {
+        color: #222;
+        text-align: center;
+        margin-bottom: 25px;
+      }
+
+      .description {
+        text-align: center;
+        margin-bottom: 30px;
+        color: #555;
+      }
+
+      input[type="number"] {
+        width: 100%;
+        padding: 12px;
+        margin-bottom: 20px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        box-sizing: border-box;
+      }
+
+      button {
+        background-color: #007bff;
+        color: white;
+        padding: 12px 24px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 16px;
+        transition: background-color 0.3s ease;
+      }
+
+      button:hover {
+        background-color: #0056b3;
+      }
+
+      #output {
+        margin-top: 30px;
+        font-size: 18px;
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Factorial Calculator</h1>
+
+      <div class="description">
+        <p>
+          This simple tool calculates the factorial of a non-negative integer.
+          Enter a number and click "Calculate" to see the result.
+        </p>
+      </div>
+
+      <input type="number" id="inputNumber" placeholder="Enter a number" />
+      <button onclick="calculateAndDisplay()">Calculate Factorial</button>
+      <div id="output"></div>
+    </div>
+
+    <script>
+      function calculateAndDisplay() {
+        const inputNumber = BigInt(
+          document.getElementById("inputNumber").value
+        );
+
+        if (inputNumber < 0n) {
+          document.getElementById("output").innerText =
+            "Please enter a non-negative integer.";
+          return;
+        }
+
+        const factorial = calculateFactorial(inputNumber);
+        document.getElementById(
+          "output"
+        ).innerText = `Factorial of ${inputNumber} is ${factorial}`;
+      }
+
+      function calculateFactorial(number) {
+        let result = 1n;
+        for (let i = 2n; i <= number; i++) {
+          result *= i;
+        }
+        return result;
+      }
+    </script>
+  </body>
+</html>
