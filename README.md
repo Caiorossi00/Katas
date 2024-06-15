@@ -16,3 +16,6 @@
 
 <h4>04. Title Case in a Sentence (Formato de Título em uma Frase)</h4>
 <p>Um aplicativo web que utiliza JavaScript para formatar uma frase de entrada fornecida pelo usuário, convertendo-a para o estilo "title case". Neste formato, a primeira letra de cada palavra é maiúscula, exceto para palavras consideradas artigos, preposições ou conjunções curtas. A lógica de formatação é implementada através da manipulação de strings, dividindo a frase em palavras, aplicando as regras de capitalização e, em seguida, juntando as palavras novamente em uma frase formatada.</p>
+
+<h4>05. Return Largest number in arrays</h4>
+<p>Um aplicativo web que utiliza JavaScript para encontrar o maior número em uma sequência de números inseridos pelo usuário, separados por espaços. A lógica de cálculo é implementada através da função Math.max() que recebe os números convertidos de uma string e identifica o maior valor presente na sequência.</p>
