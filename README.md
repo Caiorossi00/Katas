@@ -1,4 +1,5 @@
-<h2>Este repositório é o meu diário pessoal de katas de código, onde concentro minhas soluções de exercícios de programação com o intuito de aprimorar minhas habilidades em desenvolvimento de software.</h2>
+<h1>Katas</h1>
+<p>Este repositório é o meu diário pessoal de katas de código, onde concentro minhas soluções de exercícios de programação com o intuito de aprimorar minhas habilidades em desenvolvimento de software.</p>
 
 <h3>O que são Katas?</h3>
 <p>No contexto da programação, katas são pequenos desafios de codificação que você resolve repetidamente para dominar um conceito ou técnica específica.</p>
