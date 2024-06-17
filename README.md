@@ -30,4 +30,10 @@
 <h4>08. Truncate a String</h4>
 <p>Um aplicativo web que utiliza JavaScript para truncar (encurtar) uma string de entrada caso ela exceda um comprimento máximo especificado. O usuário insere a string e o comprimento máximo desejado, e o aplicativo exibe a string resultante, que pode ser a string original (se ela já for menor ou igual ao comprimento máximo) ou uma versão truncada da string, com reticências (...) no final para indicar que parte do conteúdo foi removida. A lógica de truncamento é implementada utilizando o método .slice() para extrair a parte desejada da string e, em seguida, concatenando as reticências, se necessário.</p>
 
-<img src="https://i.pinimg.com/564x/49/e9/8d/49e98ded6febe5755df365eb74952332.jpg" alt="Imagem de uma espada na mão de um samurai" />
+  <a href="https://caiorossi00.github.io/Katas/" target="_blank">
+        <img
+          src="https://i.pinimg.com/564x/49/e9/8d/49e98ded6febe5755df365eb74952332.jpg"
+          alt="Imagem de uma espada na mão de um samurai"
+        />
+  </a><br /> <br />
+    <a href="https://caiorossi00.github.io/Katas/" target="_blank">Clique aqui para ver um hub central com todas as soluções</a>
