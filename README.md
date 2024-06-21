@@ -33,10 +33,20 @@
 <h4>09. Chunky Monkey</h4>
 <p>Um aplicativo web que utiliza JavaScript para dividir um array em grupos menores de um tamanho especificado. O usuário insere os elementos do array (separados por vírgula) e o tamanho desejado para cada grupo. O aplicativo, então, exibe os grupos resultantes.</p>
 
+<h4>10. Slasher Flick</h4>
+<p>Um aplicativo web que utiliza JavaScript para remover um número específico de elementos do início de um array. O usuário insere os elementos do array (separados por vírgula) e o número de elementos a serem removidos. O aplicativo, então, exibe o array resultante após a remoção.</p>
+
+<h4>11. Two Sum</h4>
+<p>Um aplicativo web que utiliza JavaScript para encontrar, dentro de um array de números inteiros, dois números que, quando somados, resultem em um valor alvo específico. O usuário insere os números do array (separados por vírgula) e o valor alvo. O aplicativo exibe os índices dos dois números encontrados, ou uma mensagem indicando que não há solução.</p>
+
+<div align="center">
   <a href="https://caiorossi00.github.io/Katas/" target="_blank">
-        <img
-          src="https://i.pinimg.com/564x/49/e9/8d/49e98ded6febe5755df365eb74952332.jpg"
-          alt="Imagem de uma espada na mão de um samurai"
-        />
-  </a><br /> <br />
-    <a href="https://caiorossi00.github.io/Katas/" target="_blank">Clique aqui para ver um hub central com todas as soluções</a>
+    <img
+      src="https://i.pinimg.com/564x/49/e9/8d/49e98ded6febe5755df365eb74952332.jpg"
+      alt="Imagem de uma espada na mão de um samurai"
+    />
+  </a>
+  <br /><br />
+  <a href="https://caiorossi00.github.io/Katas/" target="_blank">Clique aqui para ver um hub central com todas as soluções</a>
+</div>
+
