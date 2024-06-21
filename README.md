@@ -1,5 +1,8 @@
+<div align="center">
 <h1>Katas</h1>
 <p>Este repositório é o meu diário pessoal de katas de código, onde concentro minhas soluções de exercícios de programação com o intuito de aprimorar minhas habilidades em desenvolvimento de software.</p>
+</div>
+<hr>
 
 <h3>O que são Katas?</h3>
 <p>No contexto da programação, katas são pequenos desafios de codificação que você resolve repetidamente para dominar um conceito ou técnica específica.</p>
@@ -38,6 +41,8 @@
 
 <h4>11. Two Sum</h4>
 <p>Um aplicativo web que utiliza JavaScript para encontrar, dentro de um array de números inteiros, dois números que, quando somados, resultem em um valor alvo específico. O usuário insere os números do array (separados por vírgula) e o valor alvo. O aplicativo exibe os índices dos dois números encontrados, ou uma mensagem indicando que não há solução.</p>
+<hr>
+<br />
 
 <div align="center">
   <a href="https://caiorossi00.github.io/Katas/" target="_blank">
