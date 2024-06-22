@@ -41,6 +41,9 @@
 
 <h4>11. Two Sum</h4>
 <p>Um aplicativo web que utiliza JavaScript para encontrar, dentro de um array de números inteiros, dois números que, quando somados, resultem em um valor alvo específico. O usuário insere os números do array (separados por vírgula) e o valor alvo. O aplicativo exibe os índices dos dois números encontrados, ou uma mensagem indicando que não há solução.</p>
+
+<h4>12. Mutations</h4>
+<p>Um aplicativo web que utiliza JavaScript para verificar se uma string contém todos os caracteres de outra string, independentemente da ordem e ignorando maiúsculas e minúsculas. O usuário insere duas strings e o aplicativo informa se a segunda string contém todos os caracteres da primeira.</p>
 <hr>
 <br />
 
