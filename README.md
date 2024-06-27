@@ -44,6 +44,12 @@
 
 <h4>12. Mutations</h4>
 <p>Um aplicativo web que utiliza JavaScript para verificar se uma string contém todos os caracteres de outra string, independentemente da ordem e ignorando maiúsculas e minúsculas. O usuário insere duas strings e o aplicativo informa se a segunda string contém todos os caracteres da primeira.</p>
+
+<h4>13. Falsy Bouncer</h4>
+<p>Um aplicativo web que utiliza JavaScript para filtrar um array, removendo todos os valores considerados "falsy". O usuário insere um array em formato JSON (com valores como 0, "", null, undefined, NaN, false) e o aplicativo exibe um novo array contendo apenas os valores "truthy" (todos os valores que não são falsy).</p>
+
+
+
 <hr>
 <br />
 
