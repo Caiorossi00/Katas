@@ -48,6 +48,12 @@
 <h4>13. Falsy Bouncer</h4>
 <p>Um aplicativo web que utiliza JavaScript para filtrar um array, removendo todos os valores considerados "falsy". O usuário insere um array em formato JSON (com valores como 0, "", null, undefined, NaN, false) e o aplicativo exibe um novo array contendo apenas os valores "truthy" (todos os valores que não são falsy).</p>
 
+<h4>14. Seek and Destroy</h4>
+<p>Um aplicativo web que utiliza JavaScript para remover elementos específicos de um array. O usuário insere o array (separado por vírgulas) e os valores a serem removidos (também separados por vírgulas). O aplicativo, então, exibe o array resultante após a remoção.</p>.
+
+<h4>15. Where do I Belong</h4>
+<p>Um aplicativo web que utiliza JavaScript para encontrar a posição correta para inserir um número em um array ordenado de forma crescente. O usuário insere o array (separado por vírgulas) e o número a ser inserido. O aplicativo, então, exibe o índice onde o número deve ser inserido para manter a ordem do array.</p>
+
 
 
 <hr>
