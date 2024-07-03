@@ -54,7 +54,8 @@
 <h4>15. Where do I Belong</h4>
 <p>Um aplicativo web que utiliza JavaScript para encontrar a posição correta para inserir um número em um array ordenado de forma crescente. O usuário insere o array (separado por vírgulas) e o número a ser inserido. O aplicativo, então, exibe o índice onde o número deve ser inserido para manter a ordem do array.</p>
 
-
+<h4>16. Diff Two Arrays</h4>
+<p>Um aplicativo web que utiliza JavaScript para comparar dois arrays e retornar um novo array contendo apenas os elementos únicos de cada um (ou seja, os elementos que aparecem em apenas um dos arrays). O usuário insere os elementos de cada array (separados por vírgula), e o aplicativo exibe o array resultante com os elementos diferentes.</p>
 
 <hr>
 <br />
