@@ -60,6 +60,9 @@
 <h4>17. Diff Two Arrays</h4>
 <p>Um aplicativo web que utiliza JavaScript para comparar dois arrays e retornar um novo array contendo apenas os elementos únicos de cada um (ou seja, os elementos que aparecem em apenas um dos arrays). O usuário insere os elementos de cada array (separados por vírgula), e o aplicativo exibe o array resultante com os elementos diferentes.</p>
 
+<h4>18. Caesar's Cipher</h4>
+<p>Um aplicativo web que utiliza JavaScript para cifrar um texto usando a Cifra de César, um algoritmo de criptografia simples que consiste em deslocar as letras do alfabeto por um número fixo de posições. Neste caso, utilizamos o ROT13, uma variação da Cifra de César com um deslocamento de 13 posições.</p>
+
 <hr>
 <br />
 
