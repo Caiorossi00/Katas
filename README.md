@@ -74,6 +74,6 @@
     />
   </a>
   <br /><br />
-  <a href="https://caiorossi00.github.io/Katas/" target="_blank">Clique aqui para ver um hub central com todas as soluções</a>
+  <a href="https://caiorossi00.github.io/Katas/" target="_blank">Clique aqui para ver um hub central com todos os exercícios</a>
 </div>
 
