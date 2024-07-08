@@ -63,6 +63,9 @@
 <h4>18. Caesar's Cipher</h4>
 <p>Um aplicativo web que utiliza JavaScript para cifrar um texto usando a Cifra de César, um algoritmo de criptografia simples que consiste em deslocar as letras do alfabeto por um número fixo de posições. Neste caso, utilizamos o ROT13, uma variação da Cifra de César com um deslocamento de 13 posições.</p>
 
+<h4>19. Roman Numeral Converter</h4>
+<p>Um aplicativo web que utiliza JavaScript para converter números inteiros em sua representação em algarismos romanos. O usuário insere um número inteiro, e o aplicativo exibe o numeral romano correspondente.</p>
+
 <hr>
 <br />
 
