@@ -66,6 +66,9 @@
 <h4>19. Roman Numeral Converter</h4>
 <p>Um aplicativo web que utiliza JavaScript para converter números inteiros em sua representação em algarismos romanos. O usuário insere um número inteiro, e o aplicativo exibe o numeral romano correspondente.</p>
 
+<h4>Wherefore art thou</h4>
+<p>Um aplicativo web que utiliza JavaScript para filtrar um array de objetos com base em um conjunto de critérios (pares chave-valor). O usuário fornece o array de objetos e os critérios de busca em formato JSON. O aplicativo retorna um novo array contendo apenas os objetos que satisfazem todos os critérios especificados.</p>
+
 <hr>
 <br />
 
