@@ -72,6 +72,9 @@
 <h4>21. Pig Latin</h4>
 <p>Um aplicativo web que utiliza JavaScript para converter frases em inglês para Pig Latin, um jogo de palavras que modifica as palavras de acordo com regras específicas. O usuário insere uma frase em inglês, e o aplicativo exibe a frase convertida para Pig Latin.</p>
 
+<h4>22. Sort by Price</h4>
+<p>Código que aplica um algoritmo de BubbleSort para filtragem e ordenação dos preços em uma array de produtos.</p>
+
 <hr>
 <br />
 
